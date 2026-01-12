@@ -1,5 +1,4 @@
-# epistemic-summary
-Epistemic summary line for ChatGPT
+# Epistemic summary line for ChatGPT
 
 It's helpful to have a short summary line in your ChatGPT results:
 
